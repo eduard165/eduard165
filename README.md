@@ -17,7 +17,7 @@ I build web applications, REST APIs and digital solutions with a strong focus on
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor's Degree in Computer Technologies.
-- ☕ Focused on **Java, Spring Boot and Backend Development**.
+- ☕ Focused on **Java, Python and Full Stack Development**.
 - ⚡ Building Full Stack projects with **React, Next.js and TypeScript**.
 - 🐍 Experience developing REST APIs with **Python, FastAPI, JWT and MongoDB**.
 - 🗄️ Experience working with **PostgreSQL, MySQL and SQL Server**.
